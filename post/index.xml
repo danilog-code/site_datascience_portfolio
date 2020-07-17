@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Danilo Gustavo Bispo</title>
-    <link>https://danilog-code.github.io/datascience_portfolio/post/</link>
+    <link>https://danilog-code.github.io/site_datascience_portfolio/post/</link>
     <description>Recent content in Portfolio on Danilo Gustavo Bispo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://danilog-code.github.io/datascience_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danilog-code.github.io/site_datascience_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projeto I: Data Science Pipeline</title>
-      <link>https://danilog-code.github.io/datascience_portfolio/post/project-1/</link>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</link>
       <pubDate>Tue, 10 Mar 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://danilog-code.github.io/datascience_portfolio/post/project-1/</guid>
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</guid>
       <description>Neste projeto será apresentado um pipeline básico no intuito de representar um típico workflow de projeto em ciência de dados.
 Como prolemática de negócio a ideia consiste na elaboração de uma aplicação capaz de detectar automaticamente espécies de flores através de fotos tiradas de um smartphone.
 A principal atividade concentra-se em criar um modelo demonstrativo de machine learning que utiliza como features, quatro medições características das flores (tamanho da sépala, largura da sépala, tamanho da pétala, largura da pétala) a fim de identificar diferentes espécies baseadas em tais medições.</description>
@@ -24,10 +24,10 @@ A principal atividade concentra-se em criar um modelo demonstrativo de machine l
     
     <item>
       <title>Projeto II: Estimador de salários</title>
-      <link>https://danilog-code.github.io/datascience_portfolio/post/project-2/</link>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</link>
       <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://danilog-code.github.io/datascience_portfolio/post/project-2/</guid>
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</guid>
       <description>O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar os salários no intuito de ajudar ciêntista de dados, product owners e business analytics negociar seus ganhos e benefícios quando conseguirem um emprego.
 Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 1000 descrições de emprego da plataforma glassdoor. Em seguida elaborar features através do conteúdo extraído do texto de cada descrição de cada vaga.</description>
     </item>
