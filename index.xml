@@ -17,19 +17,19 @@
       <pubDate>Tue, 10 Mar 2020 10:58:08 -0400</pubDate>
       
       <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</guid>
-      <description>Neste projeto será apresentado um pipeline básico no intuito de representar um típico workflow de projeto em ciência de dados.
-Como prolemática de negócio a ideia consiste na elaboração de uma aplicação capaz de detectar automaticamente espécies de flores através de fotos tiradas de um smartphone.
+      <description>Neste projeto será apresentado um pipeline básico com objetivo de representar um típico workflow de projeto em ciência de dados.
+Como problemática de negócio a ideia consiste na elaboração de uma aplicação capaz de detectar automaticamente espécies de flores através de fotos tiradas de um smartphone.
 A principal atividade concentra-se em criar um modelo demonstrativo de machine learning que utiliza como features, quatro medições características das flores (tamanho da sépala, largura da sépala, tamanho da pétala, largura da pétala) a fim de identificar diferentes espécies baseadas em tais medições.</description>
     </item>
     
     <item>
       <title>Projeto II: Estimador de salários</title>
       <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</link>
-      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 03 Feb 2020 10:58:08 -0400</pubDate>
       
       <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</guid>
-      <description>O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar os salários no intuito de ajudar ciêntista de dados, product owners e business analytics negociar seus ganhos e benefícios quando conseguirem um emprego.
-Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 1000 descrições de emprego da plataforma glassdoor. Em seguida elaborar features através do conteúdo extraído do texto de cada descrição de cada vaga.</description>
+      <description>O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar os salários no intuito de ajudar cientista de dados, product owners e business analytics negociar seus ganhos e benefícios quando estiverem em busca de uma colocação no mercado de trabalho.
+Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 1000 descrições de emprego da plataforma glassdoor. Logo após elaborar features através do conteúdo extraído do texto de cada vaga.</description>
     </item>
     
     <item>
