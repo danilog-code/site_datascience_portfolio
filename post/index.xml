@@ -32,5 +32,15 @@ A principal atividade concentra-se em criar um modelo demonstrativo de machine l
 Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 1000 descrições de emprego da plataforma glassdoor. Logo após elaborar features através do conteúdo extraído do texto de cada vaga.</description>
     </item>
     
+    <item>
+      <title>Projeto III: Modelo Prevenção para RH</title>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-3/</link>
+      <pubDate>Fri, 10 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-3/</guid>
+      <description>O objetivo deste projeto consiste em auxiliar o departamento de RH com a diminuição de custos em contratações. Uma das possibilidades seria manter os colaboradores que já estão compondo o quadro de uma empresa. Para isso o time de recursos humanos terá como dispor de uma ferramenta capaz de demonstrar o grau de satisfação e a chance que um colaborador tem de permanecer ou não na empresa.
+Levando em consideração que a equipe de RH coleta um volume extenso de dados sobre seus funcionários, a ideia consiste em desenvolver um modelo que possa prever quais deles têm maior propensão de deixar seu atual emprego.</description>
+    </item>
+    
   </channel>
 </rss>
