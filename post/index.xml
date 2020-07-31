@@ -42,5 +42,15 @@ Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 
 Para chegar a uma solução plausível, a ideia inicial foi conseguir responder as seguintes questões:</description>
     </item>
     
+    <item>
+      <title>Projeto IV: Segmentação de Clientes</title>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</link>
+      <pubDate>Thu, 05 Dec 2019 09:53:08 -0400</pubDate>
+      
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</guid>
+      <description>Uma financeira pensando em lançar uma campanha mais direcionada para seus clientes, solicitou uma demanda ao departamento de business analytics. Ao entender o cliente, os analistas propuseram lançar uma campanha adaptada à necessidades mais específicas. Neste caso a equipe quer lançar uma campanha de marketing dividindo seus clientes alvos de acordo com grupos distintos.
+Visto que a companhia possui grande disponibilidade de dados empréstimos de seus clientes, a ideia do projeto consiste analisar e explorar esses dados na eminência de obter informações relevantes que permitam criar modelos de machine learning que possam ser aplicados para auxiliar na segmentação dos clientes.</description>
+    </item>
+    
   </channel>
 </rss>
