@@ -23,13 +23,13 @@ A principal atividade concentra-se em criar um modelo demonstrativo de machine l
     </item>
     
     <item>
-      <title>Projeto II: Estimador de salários</title>
+      <title>Projeto II: Previsão de vendas</title>
       <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</link>
       <pubDate>Mon, 03 Feb 2020 10:58:08 -0400</pubDate>
       
       <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</guid>
-      <description>O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar os salários no intuito de ajudar cientista de dados, product owners e business analytics negociar seus ganhos e benefícios quando estiverem em busca de uma colocação no mercado de trabalho.
-Dentre as principais atividade estão as tarefas de realizar web-scraping sobre 1000 descrições de emprego da plataforma glassdoor. Logo após elaborar features através do conteúdo extraído do texto de cada vaga.</description>
+      <description>O objetivo deste projeto consiste na criação de uma aplicação que sirva como ferramenta para estimar a previsão de vendas no intuito de ajudar o departamento melhorar seus ganhos e benefícios quando estiverem em busca de selecionar campanhas promocionais.
+Será realizado como atividade principal análise exploratória, a fim de identificar possíveis correlações, tendencias e problemas com os dados. Logo após elaborar features através do conteúdo extraído do conteúdo histórico das vendas.</description>
     </item>
     
     <item>
@@ -48,8 +48,8 @@ Para chegar a uma solução plausível, a ideia inicial foi conseguir responder 
       <pubDate>Thu, 05 Dec 2019 09:53:08 -0400</pubDate>
       
       <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</guid>
-      <description>Uma financeira pensando em lançar uma campanha mais direcionada para seus clientes, solicitou uma demanda ao departamento de business analytics. Ao entender o cliente, os analistas propuseram lançar uma campanha adaptada à necessidades mais específicas. Neste caso a equipe quer lançar uma campanha de marketing dividindo seus clientes alvos de acordo com grupos distintos.
-Visto que a companhia possui grande disponibilidade de dados empréstimos de seus clientes, a ideia do projeto consiste analisar e explorar esses dados na eminência de obter informações relevantes que permitam criar modelos de machine learning que possam ser aplicados para auxiliar na segmentação dos clientes.</description>
+      <description>Uma financeira pensando em lançar uma campanha mais direcionada para seus clientes, solicitou uma demanda ao departamento de business analytics. Ao entender o cliente, os analistas propuseram lançar uma campanha adaptada à necessidades mais específicas, ou seja lançar uma campanha de marketing dividindo seus clientes alvos de acordo com grupos distintos.
+Visto que a companhia possui grande disponibilidade de dados empréstimos de seus clientes, a ideia do projeto consiste em analisar e explorar esses dados na eminência de obter informações relevantes que permitam criar modelos de machine learning que possam ser aplicados para auxiliar na segmentação dos clientes.</description>
     </item>
     
     <item>
