@@ -12,18 +12,7 @@
     
     
     <item>
-      <title>Projeto I: Data Science Pipeline</title>
-      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</link>
-      <pubDate>Tue, 10 Mar 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</guid>
-      <description>Neste projeto será apresentado um pipeline básico com objetivo de representar um típico workflow de projeto em ciência de dados.
-Como problemática de negócio a ideia consiste na elaboração de uma aplicação capaz de detectar automaticamente espécies de flores através de fotos tiradas de um smartphone.
-A principal atividade concentra-se em criar um modelo demonstrativo de machine learning que utiliza como features, quatro medições características das flores (tamanho da sépala, largura da sépala, tamanho da pétala, largura da pétala) a fim de identificar diferentes espécies baseadas em tais medições.</description>
-    </item>
-    
-    <item>
-      <title>Projeto II: Previsão de vendas</title>
+      <title>Previsão de vendas</title>
       <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-2/</link>
       <pubDate>Mon, 03 Feb 2020 10:58:08 -0400</pubDate>
       
@@ -33,9 +22,19 @@ Será realizado como atividade principal análise exploratória, a fim de identi
     </item>
     
     <item>
-      <title>Projeto III: Modelo Prevenção para RH</title>
-      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-3/</link>
+      <title>Segmentação de clientes</title>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</link>
       <pubDate>Fri, 10 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</guid>
+      <description>Uma financeira pensando em lançar uma campanha mais direcionada para seus clientes, solicitou uma demanda ao departamento de business analytics. Ao entender o cliente, os analistas propuseram lançar uma campanha adaptada à necessidades mais específicas, ou seja lançar uma campanha de marketing dividindo seus clientes alvos de acordo com grupos distintos.
+Visto que a companhia possui grande disponibilidade de dados de empréstimos de seus clientes, a ideia do projeto consiste em analisar e explorar esses dados na eminência de obter informações relevantes que permitam criar modelos de machine learning que possam ser aplicados para auxiliar na segmentação dos clientes.</description>
+    </item>
+    
+    <item>
+      <title>Modelo prevenção para RH</title>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-3/</link>
+      <pubDate>Thu, 05 Dec 2019 09:53:08 -0400</pubDate>
       
       <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-3/</guid>
       <description>O objetivo deste projeto consiste em auxiliar o departamento de RH com a diminuição de custos e necessidades de contratações junto com ações proativas para manter os funcionários que já estão compondo o quadro da empresa. Para isso o time de recursos humanos terá como dispor de uma ferramenta capaz de demonstrar o grau de satisfação e a chance que um colaborador tem de permanecer ou não na empresa.
@@ -43,13 +42,14 @@ Para chegar a uma solução plausível, a ideia inicial foi conseguir responder 
     </item>
     
     <item>
-      <title>Projeto IV: Segmentação de Clientes</title>
-      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</link>
-      <pubDate>Thu, 05 Dec 2019 09:53:08 -0400</pubDate>
+      <title>Data Science Pipeline</title>
+      <link>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</link>
+      <pubDate>Sun, 10 Nov 2019 10:58:08 -0400</pubDate>
       
-      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-4/</guid>
-      <description>Uma financeira pensando em lançar uma campanha mais direcionada para seus clientes, solicitou uma demanda ao departamento de business analytics. Ao entender o cliente, os analistas propuseram lançar uma campanha adaptada à necessidades mais específicas, ou seja lançar uma campanha de marketing dividindo seus clientes alvos de acordo com grupos distintos.
-Visto que a companhia possui grande disponibilidade de dados empréstimos de seus clientes, a ideia do projeto consiste em analisar e explorar esses dados na eminência de obter informações relevantes que permitam criar modelos de machine learning que possam ser aplicados para auxiliar na segmentação dos clientes.</description>
+      <guid>https://danilog-code.github.io/site_datascience_portfolio/post/project-1/</guid>
+      <description>Neste projeto será apresentado um pipeline básico com objetivo de representar um típico workflow de projeto em ciência de dados.
+Como problemática de negócio a ideia consiste na elaboração de uma aplicação capaz de detectar automaticamente espécies de flores através de fotos tiradas de um smartphone.
+A principal atividade concentra-se em criar um modelo demonstrativo de machine learning que utiliza como features, quatro medições características das flores (tamanho da sépala, largura da sépala, tamanho da pétala, largura da pétala) a fim de identificar diferentes espécies baseadas em tais medições.</description>
     </item>
     
   </channel>
